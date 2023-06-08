@@ -32,7 +32,7 @@
 <br>
 
  <div align="center">
-  <a href="https://github.com/HusseinMohamed849">
+  <a href="https://github.com/Hussein-Muhamed">
     <img align="center" alt="Top Languages" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ziadeleraky&layout=compact&theme=radical&langs_count=6" />
   </a>
  </div>
@@ -51,7 +51,7 @@
   <summary>📊 <b>Github Stats</b></summary>
  <br />
  <div align="center">
-  <a href="https://github.com/HusseinMohamed849">
+  <a href="https://github.com/Hussein-Muhamed">
    <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=ziadeleraky&show_icons=true&theme=radical&count_private=true">
   </a>
  </div>
@@ -63,7 +63,7 @@
  <br />
  
 <div align="center">
-  <a href="https://github.com/HusseinMohamed849">
+  <a href="https://github.com/Hussein-Muhamed">
    <img align="center" alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=ziadeleraky&column=8&theme=darkhub"/>
   </a>
  </div>
