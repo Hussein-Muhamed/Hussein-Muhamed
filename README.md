@@ -52,7 +52,7 @@
  <br />
  <div align="center">
   <a href="https://github.com/Hussein-Muhamed">
-   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=ziadeleraky&show_icons=true&theme=radical&count_private=true">
+   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=Hussein-Muhamed&show_icons=true&theme=radical&count_private=true">
   </a>
  </div>
 </details>
